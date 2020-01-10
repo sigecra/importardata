@@ -66,7 +66,7 @@ class PrhnovedadesController extends Controller
 
         //REGISTRAR IMAGENES
         $ruta='/var/www/html/directolaravel/imagen/';
-     //   $ruta='/home/sftpimg/editorialftp/img/';
+
         $portada=array_get($insertArr, 'portada');
         $imgportadanueva=$ruta.$isbn.'.jpg';
         $autor=array_get($insertArr, 'imagen_autor');
