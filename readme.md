@@ -4,7 +4,7 @@
 
 </p>
 
-## Sistema que gestiona los datos de servicio editorial publico de acuerdo a la solicitud del cliente:
+## Sistema que gestiona los datos de servicio de consulta editorial  de acuerdo a la solicitud del cliente:
 
 Hay dos rutas de acuerdo: sobre cual debe leer el programa y ejecutar el proceso de almacenamiento en la base de datos?
 Catálogo completo:
