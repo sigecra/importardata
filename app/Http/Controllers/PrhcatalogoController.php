@@ -66,7 +66,7 @@ class PrhcatalogoController extends Controller
            ['codigopais' => $region]);   
 
             //REGISTRAR IMAGENES
-         $ruta='/home/sftpimg/editorialftp/img/';
+         $ruta='/home/img/';
             $portada=array_get($insertArr, 'portada');
         $imgportadanueva=$ruta.$isbn.'.jpg';
 
